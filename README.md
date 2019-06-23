@@ -15,7 +15,7 @@ npm install --save mongodb-reduce-objectid
 # Usage
 
 ```js
-const shortenId = require('mongodb-reduce-objectid');
-const shorten = shortenId('5d0efa88f85b2f001172f6ba');
-console.log(shorten); // => 'ahGw2K'
+const shortid = require('mongodb-reduce-objectid');
+const shortnd = shortid('5d0efa88f85b2f001172f6ba');
+console.log(shortnd); // => 'ahGw2K'
 ```
