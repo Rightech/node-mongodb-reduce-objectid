@@ -10,7 +10,13 @@
     "type": "git",
     "url": "git+https://github.com/Rightech/node-mongodb-reduce-objectid.git"
   },
-  "author": "",
+  "keywords": [
+    "mongodb",
+    "objectid",
+    "hex",
+    "shorten"
+  ],
+  "author": "prohazko@rightech.io",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/Rightech/node-mongodb-reduce-objectid/issues"
