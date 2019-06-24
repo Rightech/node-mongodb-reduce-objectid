@@ -1,6 +1,6 @@
 {
-  "name": "mongodb-reduce-objectid",
-  "version": "2.1.3",
+  "name": "shrink-mongo-id",
+  "version": "2.1.4",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Rightech/node-mongodb-reduce-objectid.git"
+    "url": "git+https://github.com/Rightech/shrink-mongo-id.git"
   },
   "keywords": [
     "mongodb",
@@ -19,7 +19,7 @@
   "author": "prohazko@rightech.io",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Rightech/node-mongodb-reduce-objectid/issues"
+    "url": "https://github.com/Rightech/shrink-mongo-id/issues"
   },
-  "homepage": "https://github.com/Rightech/node-mongodb-reduce-objectid#readme"
+  "homepage": "https://github.com/Rightech/shrink-mongo-id#readme"
 }

@@ -9,13 +9,13 @@ Suit for `node` and `browser`.
 # Install
 
 ```console
-npm install --save mongodb-reduce-objectid
+npm install --save shrink-mongo-id
 ```
 
 # Usage
 
 ```js
-const shortid = require('mongodb-reduce-objectid');
+const shortid = require('shrink-mongo-id');
 const shortnd = shortid('5d0efa88f85b2f001172f6ba');
 console.log(shortnd); // => 'ahGw2K'
 ```
