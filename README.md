@@ -1,4 +1,4 @@
-# Shorten MongoDb ObjectId
+# Shrink MongoDB's ObjectId ObjectId
 
 Heavily based on https://github.com/treygriffith/short-mongo-id
 
